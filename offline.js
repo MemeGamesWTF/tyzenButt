@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1732100469,
+	"version": 1732114467,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,8 +11,10 @@
 		"images/sprite4-sheet0.png",
 		"images/sprite5-sheet0.png",
 		"images/sprite6-sheet0.png",
-		"images/spritefont.png",
 		"images/sprite7-sheet0.png",
+		"images/particles.png",
+		"images/sprite11-sheet0.png",
+		"images/tiledbackground.png",
 		"media/whack_1.m4a",
 		"media/whack_1.ogg",
 		"media/whack_2.m4a",
