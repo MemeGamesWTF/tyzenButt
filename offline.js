@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1732123524,
+	"version": 1732187050,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -27,8 +27,15 @@
 		"media/puch 3.ogg",
 		"media/puch 4.m4a",
 		"media/puch 4.ogg",
+		"media/level up.m4a",
+		"media/level up.ogg",
+		"media/pop 1.m4a",
+		"media/pop 1.ogg",
+		"media/pop 2.m4a",
+		"media/pop 2.ogg",
 		"media/apt - edit 1.m4a",
 		"media/apt - edit 1.ogg",
+		"media/tyson meme game.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
