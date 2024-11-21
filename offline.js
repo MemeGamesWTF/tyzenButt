@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1732187050,
+	"version": 1732212666,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,6 +15,12 @@
 		"images/particles.png",
 		"images/sprite11-sheet0.png",
 		"images/tiledbackground.png",
+		"images/sprite8-sheet0.png",
+		"images/sprite9-sheet0.png",
+		"images/spritefont.png",
+		"images/sprite10-sheet0.png",
+		"images/sprite12-sheet0.png",
+		"images/sprite13-sheet0.png",
 		"media/whack_1.m4a",
 		"media/whack_1.ogg",
 		"media/whack_2.m4a",
@@ -33,8 +39,6 @@
 		"media/pop 1.ogg",
 		"media/pop 2.m4a",
 		"media/pop 2.ogg",
-		"media/apt - edit 1.m4a",
-		"media/apt - edit 1.ogg",
 		"media/tyson meme game.ogg",
 		"icon-16.png",
 		"icon-32.png",
